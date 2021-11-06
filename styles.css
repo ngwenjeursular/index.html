@@ -84,7 +84,7 @@ nav ul li:hover {
 .container1 {
     width: 180px;
     height: 400px;
-    background: url("images/img-1.jpg");
+    background: url("../images/img-1.jpg");
     background-size: cover;
     background-position: center;
     margin: 0 10px;
@@ -93,7 +93,7 @@ nav ul li:hover {
 .container2 {
     width: 180px;
     height: 400px;
-    background: url('.images/img-2.jpg');
+    background: url('../images/img-2.jpg');
     background-size: cover;
     background-position: center;
     margin: 0 10px;
@@ -101,7 +101,7 @@ nav ul li:hover {
 .container3 {
     width: 180px;
     height: 400px;
-    background: url(images\img-3.jpg);
+    background: url(../images\img-3.jpg);
     background-size: cover;
     background-position: center;
     margin: 0 10px;
@@ -110,7 +110,7 @@ nav ul li:hover {
 .container4 {
     width: 180px;
     height: 400px;
-    background: url(images/img-4.jpg);
+    background: url(../images/img-4.jpg);
     background-size: cover;
     background-position: center;
     margin: 0 10px;
